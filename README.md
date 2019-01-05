@@ -4,7 +4,7 @@ This is a small program written in C to manage a database. It is intended to sho
 
 ## Demo
 ```shell
-# build
+# build program
 $ make dbms
 cc -Wall -g    dbms.c   -o dbms
 
