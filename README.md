@@ -1,3 +1,3 @@
 # Simple Database Management System
 
-This is a small program to use memory directly to store and retrive information. As a result of simplocity, Tit isn’t very efficient and doesn’t store very much.
+This is a small program written in C to manage a database. It is intended to show C's low level programming capabilities such as direct memory access. As a result of simplicity, it isn’t very efficient and doesn’t store very much.
